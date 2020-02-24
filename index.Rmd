@@ -1,5 +1,6 @@
-  ---
+---
   title: "Herzlich Willkommen auf meiner Webseite!"
 ---
 
-Website befindet sich zur Zeit in der Überarbeitung, bald stehen mehr hier.
+
+Diese Website befindet sich zur Zeit in der Überarbeitung, bald stehen mehr hier. Ich bitte um etwas Geduld.
