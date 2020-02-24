@@ -2,6 +2,4 @@
 title: "Über mich"
 ---
 
-## Über mich
-
-Websit befindet sich zur Zeit in der Überarbeitung, bald stehen mehr hier.
+Diese Webseite befindet sich zur Zeit in der Überarbeitung, bald stehen mehr hier.
