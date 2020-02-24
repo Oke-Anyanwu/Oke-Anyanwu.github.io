@@ -1,28 +1,28 @@
-name: "YOURNAME"                                # CHANGE HERE 
+name: "Oke Anyanwu"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "YOURNAME"                             # CHANGE HERE 
+  title: "Oke Anyanwu"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Home"
+    - text: "Leistungen"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Über Mich"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Projekte"
       icon: fa-file-pdf-o
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://Oke-Anyanwu.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
+    - text: "Kontakt"
       icon: fa-envelope-o
       href: mailto:YOUREMAIL                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/YOURGITHUB       # CHANGE HERE 
+      href: https://github.com/Oke-Anyanwu       # CHANGE HERE 
 output:
   html_document:
     theme: cosmo

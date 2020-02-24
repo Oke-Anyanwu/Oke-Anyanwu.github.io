@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "Über mich"
 ---
 
-## Header
+## Über mich
 
-Say more about you here.
+Websit befindet sich zur Zeit in der Überarbeitung, bald stehen mehr hier.

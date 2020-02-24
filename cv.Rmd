@@ -1,9 +1,9 @@
 ---
-title: "CV"
+title: "Projekte"
 ---
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
+## Projekte
 
-Say more about your CV here.
+Bald stehen mehr hier zu meinen Projektangeboten.

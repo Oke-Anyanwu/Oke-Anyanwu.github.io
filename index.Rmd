@@ -1,5 +1,5 @@
----
-title: "Welcome to my website!"
+  ---
+  title: "Herzlich Willkommen auf meiner Webseite!"
 ---
 
-You're up and running!
+Website befindet sich zur Zeit in der Überarbeitung, bald stehen mehr hier.
