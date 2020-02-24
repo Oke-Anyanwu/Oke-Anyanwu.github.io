@@ -4,6 +4,4 @@ title: "Projekte"
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Projekte
-
-Bald stehen mehr hier zu meinen Projektangeboten.
+Diese Webseite befindet sich zur Zeit in der Überarbeitung. Bald stehen mehr hier zu meinen Projektangeboten.
